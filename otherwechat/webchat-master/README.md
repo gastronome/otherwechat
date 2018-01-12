@@ -1,4 +1,4 @@
-# vue+websocket+express+mongodb实战项目（实时聊天）
+# vue+websocket+express+mongodb实战项目（实时聊天）（搬运）
 博客地址：[http://blog.csdn.net/blueblueskyhua/article/details/70807847](http://blog.csdn.net/blueblueskyhua/article/details/70807847)
 ```
 npm install -----安装依赖
